@@ -5,7 +5,7 @@ The **CommandGUI** is a simple graphical command executor, which is based on a U
 
 ## Environment
 
-Linux or a virtualized machine that can get Linux up and running. The project was developed on Ubuntu.
+It's better to start with Linux or a virtualized machine that can get Linux up and running. Also, C++ compiler tools, Boost, and Qt 5 are required to compile and run.
 
 ## Files
 
